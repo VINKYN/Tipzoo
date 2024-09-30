@@ -1,0 +1,6 @@
+Skel_ID,Skel_AgeCort,Skel_AgeFus,Skel_Anat_Detail,Skel_Anat,Skel_Anat_Class,Skel_Frag,Skel_Segment,Skel_SHC,Skel_Side,Skel_Spongy,Skel_Portion,Base_pk
+2,J,,,FIB,LBN,CO,,,Left,1,"C2,",4
+3,J,"Efus,",,HUM,LBN,ACO,"Post,",<50%,,1,"E,S,",5
+4,,,,FEM,LBN,,,None,Left,0,,7
+7,,,,,Skull,,,,,0,,25
+9,,,,PHA,LBN,,,None,,0,,13

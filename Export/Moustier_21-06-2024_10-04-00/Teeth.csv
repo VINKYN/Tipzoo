@@ -1,0 +1,4 @@
+Teeth_ID,Teeth_Dentition,Teeth_CH,Teeth_FR,Teeth_Class,Teeth_Number,Teeth_Type,Teeth_Portion,Teeth_OccSup50,Teeth_LowerUpper,Teeth_Side,Teeth_UW_AgeClass,Teeth_UW_Crown,Teeth_UW_Root,Teeth_UW_RootResorp,SKEL_ID
+1,Deciduous,55,ACO,Canine,3-4,Cheek,"CRN,ROOT,",1,?,Right,22.0,2,1,1.0,4
+2,?,555,CO,Molar,4,?,"CRN,ROOT,",1,Lower,Left,11.0,1,1,,4
+3,,55,,,,,,1,?,,,1,1,1.0,4

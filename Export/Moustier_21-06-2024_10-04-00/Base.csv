@@ -1,0 +1,9 @@
+Base_pk,Base_ID,Base_Sub,Base_Square,Base_CheckCode,Base_Observation,Base_PlottedScreen,Base_Burnt,Base_SiteName,Base_SIZE,DateEnter,DateModif,Color_ID
+4,2,888,,,,Screen,Mostly black,MOUSTIER,1-2,17-06-2024 10:06,20-06-2024 12:02,3.0
+5,1,7,40,No,,Screen,Mostly grey,MOUSTIER,2-3,17-06-2024 10:07,19-06-2024 11:30,2.0
+7,2,,,Yes,,Plotted,No,MOUSTIER,17-18,17-06-2024 10:24,20-06-2024 10:42,
+13,8,,40,No,,Plotted,Mostly grey,MOUSTIER,4-5,19-06-2024 10:15,20-06-2024 15:20,
+28,,,,No,,Plotted,No,MOUSTIER,11-12,20-06-2024 15:23,20-06-2024 15:23,
+29,,,,No,,Plotted,No,MOUSTIER,9-10,20-06-2024 15:23,20-06-2024 15:23,
+30,,,,No,,Plotted,No,MOUSTIER,4-5,20-06-2024 15:24,20-06-2024 15:24,
+32,,,,No,,Plotted,No,MOUSTIER,9-10,20-06-2024 15:25,20-06-2024 16:07,
